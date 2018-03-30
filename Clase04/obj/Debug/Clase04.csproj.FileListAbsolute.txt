@@ -1,0 +1,8 @@
+D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\bin\Debug\Clase04.exe.config
+D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\bin\Debug\Clase04.exe
+D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\bin\Debug\Clase04.pdb
+D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\obj\Debug\Clase04.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\obj\Debug\Clase04.exe
+D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\obj\Debug\Clase04.pdb
+D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\bin\Debug\Cosa.dll
+D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\bin\Debug\Cosa.pdb

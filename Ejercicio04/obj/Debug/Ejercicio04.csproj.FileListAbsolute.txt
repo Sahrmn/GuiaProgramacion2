@@ -1,0 +1,7 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio04\bin\Debug\Ejercicio04.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio04\bin\Debug\Ejercicio04.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio04\obj\Debug\Ejercicio04.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio04\obj\Debug\Ejercicio04.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio04\obj\Debug\Ejercicio04.csprojResolveAssemblyReference.cache

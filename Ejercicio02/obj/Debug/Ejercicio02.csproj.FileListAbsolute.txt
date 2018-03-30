@@ -1,0 +1,13 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\Ejercicio02\obj\Debug\Ejercicio02.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\Ejercicio02\obj\Debug\Ejercicio02.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio02\obj\Debug\Ejercicio02.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio02\obj\Debug\Ejercicio02.pdb

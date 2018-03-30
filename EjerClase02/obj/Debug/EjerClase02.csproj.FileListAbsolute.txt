@@ -1,0 +1,18 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EjerClase02\bin\Debug\EjerClase02.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EjerClase02\bin\Debug\EjerClase02.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EjerClase02\bin\Debug\EjerClase02.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EjerClase02\obj\Debug\EjerClase02.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EjerClase02\obj\Debug\EjerClase02.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EjerClase02\obj\Debug\EjerClase02.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EjerClase02\bin\Debug\EntidadSello.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EjerClase02\bin\Debug\EntidadSello.pdb
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\bin\Debug\EjerClase02.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\bin\Debug\EjerClase02.exe
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\bin\Debug\EjerClase02.pdb
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\bin\Debug\EntidadSello.dll
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\bin\Debug\EntidadSello.pdb
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\obj\Debug\EjerClase02.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\obj\Debug\EjerClase02.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\obj\Debug\EjerClase02.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\obj\Debug\EjerClase02.exe
+D:\UTN\Programacion II\Moreno.Samantha\EjerClase02\obj\Debug\EjerClase02.pdb

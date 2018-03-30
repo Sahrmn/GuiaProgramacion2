@@ -1,0 +1,11 @@
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\bin\Debug\CosaForms.exe.config
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\bin\Debug\CosaForms.exe
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\bin\Debug\CosaForms.pdb
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\bin\Debug\Cosa.dll
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\bin\Debug\Cosa.pdb
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.Form1.resources
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.Properties.Resources.resources
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.csproj.GenerateResource.Cache
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.exe
+D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.pdb

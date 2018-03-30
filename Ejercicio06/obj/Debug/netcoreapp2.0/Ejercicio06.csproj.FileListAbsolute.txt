@@ -1,0 +1,10 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\bin\Debug\netcoreapp2.0\Ejercicio06.deps.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\bin\Debug\netcoreapp2.0\Ejercicio06.runtimeconfig.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\bin\Debug\netcoreapp2.0\Ejercicio06.runtimeconfig.dev.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\bin\Debug\netcoreapp2.0\Ejercicio06.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\bin\Debug\netcoreapp2.0\Ejercicio06.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejercicio06.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejercicio06.AssemblyInfoInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejercicio06.AssemblyInfo.cs
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejercicio06.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejercicio06.pdb

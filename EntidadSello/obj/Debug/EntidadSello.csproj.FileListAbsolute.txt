@@ -1,0 +1,11 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EntidadSello\bin\Debug\EntidadSello.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EntidadSello\bin\Debug\EntidadSello.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EntidadSello\obj\Debug\EntidadSello.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EntidadSello\obj\Debug\EntidadSello.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Moreno.Samantha\EntidadSello\obj\Debug\EntidadSello.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\EntidadSello\bin\Debug\EntidadSello.dll
+D:\UTN\Programacion II\Moreno.Samantha\EntidadSello\bin\Debug\EntidadSello.pdb
+D:\UTN\Programacion II\Moreno.Samantha\EntidadSello\obj\Debug\EntidadSello.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\EntidadSello\obj\Debug\EntidadSello.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\EntidadSello\obj\Debug\EntidadSello.dll
+D:\UTN\Programacion II\Moreno.Samantha\EntidadSello\obj\Debug\EntidadSello.pdb
