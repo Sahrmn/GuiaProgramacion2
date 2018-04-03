@@ -3,3 +3,9 @@ D:\Mis Documentos\Samantha\Moreno.Samantha\Cosa\bin\Debug\Cosa.pdb
 D:\Mis Documentos\Samantha\Moreno.Samantha\Cosa\obj\Debug\Cosa.dll
 D:\Mis Documentos\Samantha\Moreno.Samantha\Cosa\obj\Debug\Cosa.pdb
 D:\Mis Documentos\Samantha\Moreno.Samantha\Cosa\obj\Debug\Cosa.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Cosa\bin\Debug\Cosa.dll
+D:\UTN\Programacion II\Moreno.Samantha\Cosa\bin\Debug\Cosa.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Cosa\obj\Debug\Cosa.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Cosa\obj\Debug\Cosa.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Cosa\obj\Debug\Cosa.dll
+D:\UTN\Programacion II\Moreno.Samantha\Cosa\obj\Debug\Cosa.pdb

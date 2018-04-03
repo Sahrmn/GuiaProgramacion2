@@ -9,3 +9,16 @@ D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.Propert
 D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.csproj.GenerateResource.Cache
 D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.exe
 D:\Mis Documentos\Samantha\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.pdb
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\bin\Debug\CosaForms.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\bin\Debug\CosaForms.exe
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\bin\Debug\CosaForms.pdb
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\bin\Debug\Cosa.dll
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\bin\Debug\Cosa.pdb
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.Form1.resources
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.Properties.Resources.resources
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.csproj.GenerateResource.cache
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.exe
+D:\UTN\Programacion II\Moreno.Samantha\CosaForms\obj\Debug\CosaForms.pdb
