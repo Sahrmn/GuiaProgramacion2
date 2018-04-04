@@ -1,0 +1,5 @@
+D:\Mis Documentos\GuiaProgramacion2\EntidadesClase06\bin\Debug\EntidadesClase06.dll
+D:\Mis Documentos\GuiaProgramacion2\EntidadesClase06\bin\Debug\EntidadesClase06.pdb
+D:\Mis Documentos\GuiaProgramacion2\EntidadesClase06\obj\Debug\EntidadesClase06.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\GuiaProgramacion2\EntidadesClase06\obj\Debug\EntidadesClase06.dll
+D:\Mis Documentos\GuiaProgramacion2\EntidadesClase06\obj\Debug\EntidadesClase06.pdb

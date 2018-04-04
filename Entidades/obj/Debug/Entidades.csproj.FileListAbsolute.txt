@@ -1,0 +1,11 @@
+D:\Mis Documentos\GuiaProgramacion2\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\GuiaProgramacion2\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\GuiaProgramacion2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\GuiaProgramacion2\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\GuiaProgramacion2\Entidades\obj\Debug\Entidades.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Entidades\bin\Debug\Entidades.dll
+D:\UTN\Programacion II\Moreno.Samantha\Entidades\bin\Debug\Entidades.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Entidades\obj\Debug\Entidades.dll
+D:\UTN\Programacion II\Moreno.Samantha\Entidades\obj\Debug\Entidades.pdb

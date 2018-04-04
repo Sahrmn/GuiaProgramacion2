@@ -1,0 +1,8 @@
+D:\Mis Documentos\GuiaProgramacion2\TestPaleta\bin\Debug\TestPaleta.exe.config
+D:\Mis Documentos\GuiaProgramacion2\TestPaleta\bin\Debug\TestPaleta.exe
+D:\Mis Documentos\GuiaProgramacion2\TestPaleta\bin\Debug\TestPaleta.pdb
+D:\Mis Documentos\GuiaProgramacion2\TestPaleta\bin\Debug\EntidadesClase06.dll
+D:\Mis Documentos\GuiaProgramacion2\TestPaleta\bin\Debug\EntidadesClase06.pdb
+D:\Mis Documentos\GuiaProgramacion2\TestPaleta\obj\Debug\TestPaleta.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\GuiaProgramacion2\TestPaleta\obj\Debug\TestPaleta.exe
+D:\Mis Documentos\GuiaProgramacion2\TestPaleta\obj\Debug\TestPaleta.pdb
