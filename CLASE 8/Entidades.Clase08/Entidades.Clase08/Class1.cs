@@ -16,9 +16,12 @@ namespace Entidades.Clase08
 
         public float GetPromedioGoles()
         {
-            this._promedioGoles = this._totalGoles / this._partidosJugados;
-            return this._promedioGoles;
+            this._promedioGoles = ((float)this._totalGoles / (float)this._partidosJugados);
+            this._promedioGoles = (float)Math.Round((double)this._promedioGoles, 2);
+            return (float)this._promedioGoles;
         }
+
+        #region Constructores
 
         private Jugador()
         {
@@ -44,7 +47,12 @@ namespace Entidades.Clase08
         {
             this._totalGoles = totalGoles;
             this._partidosJugados = totalPartidos;
+            this.GetPromedioGoles();
         }
+
+        #endregion
+
+        #region Propiedades
 
         public long Dni 
         { 
@@ -69,18 +77,25 @@ namespace Entidades.Clase08
             set { _totalGoles = value; } 
         }
 
+        #endregion
+
         public string MostrarDatos()
         {
             string retValue = "DNI: " + this._dni + " \nNombre: " + this._nombre + " \nCantidad de partidos jugados: " + this._partidosJugados + " \nPromedio de goles: " + this._promedioGoles + " \nCantidad total de goles: " + this._totalGoles + "\n";
             return retValue;
         }
 
+        #region Sobrecargas
+
         public static bool operator ==(Jugador j1, Jugador j2)
         {
             bool retValue = false;
-            if (j1._dni == j2._dni)
+            if ((object)j1 != null && (object)j2 != null)
             {
-                retValue = true;
+                if (j1._dni == j2._dni)
+                {
+                    retValue = true;
+                }
             }
             return retValue;
         }
@@ -89,6 +104,8 @@ namespace Entidades.Clase08
         {
             return !(j1==j2);
         }
+        #endregion
+
     }
 
     public class Equipo
@@ -97,10 +114,13 @@ namespace Entidades.Clase08
         private List<Jugador> _jugadores;
         private string _nombre;
 
+        #region Constructores
+
         private Equipo()
         {
             _jugadores = new List<Jugador>();
             _cantidadDeJugadores = 5;
+            _nombre = "equipo sin nombre";
         }
 
         public Equipo(short cantJugadores, string nombre):this()
@@ -108,6 +128,10 @@ namespace Entidades.Clase08
             this._cantidadDeJugadores = cantJugadores;
             this._nombre = nombre;
         }
+
+        #endregion
+
+        #region Sobrecargas
 
         /// <summary>
         /// Returna false si el jugador ya se encuentra en el equipo, y true si no esta y se agrega
@@ -124,10 +148,10 @@ namespace Entidades.Clase08
                 cont = e._jugadores.Count;
                 for (int i = 0; i < cont; i++)
                 {
-                    if (e._jugadores[i] == j)// si flag es false quiere decir que ya esta en el equipo
+                    if (e._jugadores[i].Dni == j.Dni)// si flag es false quiere decir que ya esta en el equipo
                     {
-                        flag = false;// FIJARSE QUE TIENE QUE COMPARAR EL DNI SOLAMENTE
-                        break;// FIJARSE QUE TIENE QUE COMPARAR EL DNI SOLAMENTE
+                        flag = false;
+                        break;
                     }
                 }
             }
@@ -151,9 +175,9 @@ namespace Entidades.Clase08
                 cont = e._jugadores.Count;
                 for (int i = 0; i < cont; i++)
                 {
-                    if (e._jugadores[i] == j)// si flag es false quiere decir que esta en el equipo y puedo eliminarlo
+                    if (e._jugadores[i].Dni == j.Dni)// si flag es false quiere decir que esta en el equipo y puedo eliminarlo
                     {
-                        flag = true;// FIJARSE QUE TIENE QUE COMPARAR EL DNI SOLAMENTE
+                        flag = true;
                         break;
                     }
                 }
@@ -168,6 +192,8 @@ namespace Entidades.Clase08
             }
             return flag;
         }
+
+        #endregion
 
         public List<Jugador> GetJugadores()
         {

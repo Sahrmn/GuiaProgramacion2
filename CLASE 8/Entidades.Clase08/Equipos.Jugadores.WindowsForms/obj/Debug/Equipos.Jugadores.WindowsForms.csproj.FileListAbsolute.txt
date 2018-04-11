@@ -22,3 +22,17 @@ D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\De
 D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.frmJugador.resources
 D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.Properties.Resources.resources
 D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.csproj.GenerateResource.Cache
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Equipos.Jugadores.WindowsForms.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Equipos.Jugadores.WindowsForms.exe
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Equipos.Jugadores.WindowsForms.pdb
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Entidades.Clase08.dll
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Entidades.Clase08.pdb
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.frmEquipo.resources
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.frmJugador.resources
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.Properties.Resources.resources
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.csproj.GenerateResource.cache
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.exe
+D:\UTN\Programacion II\Moreno.Samantha\CLASE 8\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.pdb

@@ -74,7 +74,7 @@
             // 
             // btnAceptar
             // 
-            this.btnAceptar.Location = new System.Drawing.Point(172, 92);
+            this.btnAceptar.Location = new System.Drawing.Point(346, 55);
             this.btnAceptar.Name = "btnAceptar";
             this.btnAceptar.Size = new System.Drawing.Size(75, 23);
             this.btnAceptar.TabIndex = 3;
@@ -84,7 +84,7 @@
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(253, 92);
+            this.btnCancelar.Location = new System.Drawing.Point(427, 55);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(75, 23);
             this.btnCancelar.TabIndex = 4;
@@ -105,9 +105,9 @@
             // lstEquipo
             // 
             this.lstEquipo.FormattingEnabled = true;
-            this.lstEquipo.Location = new System.Drawing.Point(12, 135);
+            this.lstEquipo.Location = new System.Drawing.Point(12, 96);
             this.lstEquipo.Name = "lstEquipo";
-            this.lstEquipo.Size = new System.Drawing.Size(580, 82);
+            this.lstEquipo.Size = new System.Drawing.Size(580, 108);
             this.lstEquipo.TabIndex = 7;
             this.lstEquipo.Visible = false;
             // 

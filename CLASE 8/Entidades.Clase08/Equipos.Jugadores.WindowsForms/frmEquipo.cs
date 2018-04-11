@@ -27,7 +27,7 @@ namespace Equipos.Jugadores.WindowsForms
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            string nombre = txtNombre.Text;
+            string nombre = txtNombre.Text.ToString();
             short cantJugadores = short.Parse(txtCantJugadores.Text);
 
             _equipo = new Equipo(cantJugadores, nombre);
@@ -123,10 +123,34 @@ namespace Equipos.Jugadores.WindowsForms
                     if (i == indexSeleccionado)
                     {
                         jugModificado = listaJug[i];
-                        frmJugador modifJugador = new frmJugador(jugModificado);
-                        modifJugador.ShowDialog();
+                        frmJugador frmModifJugador = new frmJugador(jugModificado);
+                        frmModifJugador.ShowDialog();
+
+                        if (frmModifJugador.DialogResult == DialogResult.OK)
+                        {
+                            DialogResult resp = MessageBox.Show("¿Esta seguro que quiere modificar a este jugador?", "Eliminar", MessageBoxButtons.YesNo, MessageBoxIcon.Question); // AGREGAR NOMBRE DE JUGADOR A LA PREGUNTA
+                            if (resp == System.Windows.Forms.DialogResult.Yes)
+                            {
+                                bool val = this._equipo - jugModificado;
+
+                                jugModificado = frmModifJugador.GetJugador();//recupero getJugador
+
+                                val = this._equipo + jugModificado; //agrego jugador con modificacion
+                                if (val == false)
+                                {
+                                    MessageBox.Show("No se pudo modificar el jugador", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                }
+                                else
+                                {
+                                    MessageBox.Show("Jugador modificado!", "Listo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                }
+                            }
+                        }
+
+                        break;
                     }
                 }
+
                 mostrarListJugadores();
             }
         }
