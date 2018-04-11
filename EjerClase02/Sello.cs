@@ -8,7 +8,7 @@ namespace EjerClase02
 {
     class Sello
     {
-        public static string mensaje;
+        public static string mensaje = "";
 
         public static void Imprimir()
         {

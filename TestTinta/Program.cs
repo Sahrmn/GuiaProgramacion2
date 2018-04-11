@@ -23,22 +23,32 @@ namespace TestTinta
             string c = pluma3;
             string d = pluma4;
 
-            Console.WriteLine(Tinta.Mostrar(nuevaTinta1) +"\n");
-            Console.WriteLine(Tinta.Mostrar(nuevaTinta2) + "\n");
+            //Console.WriteLine(Tinta.Mostrar(nuevaTinta1) +"\n");
+            //Console.WriteLine(Tinta.Mostrar(nuevaTinta2) + "\n");
             Console.WriteLine(Tinta.Mostrar(nuevaTinta3) + "\n");
             
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-            Console.WriteLine(c);
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
+            //Console.WriteLine(c);
             Console.WriteLine(d);
 
-            if (nuevaTinta1 != nuevaTinta3)
-            {
-                Console.WriteLine("NO son iguales");
-            }
-            else
-                Console.WriteLine("Son iguales");
+            //if (nuevaTinta1 != nuevaTinta3)
+            //{
+            //    Console.WriteLine("No son iguales");
+            //}
+            //else
+            //    Console.WriteLine("Son iguales");
 
+            pluma4 = pluma4 + nuevaTinta3;
+            d = pluma4;
+            Console.WriteLine(d);
+
+            pluma4 = pluma4 - nuevaTinta3;
+            d = pluma4;
+            Console.WriteLine(d);
+            pluma4 = pluma4 - nuevaTinta3;
+            d = pluma4;
+           
             Console.ReadLine();
         }
     }

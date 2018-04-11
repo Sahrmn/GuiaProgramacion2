@@ -6,3 +6,13 @@ D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\obj\Debug\Clase04.exe
 D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\obj\Debug\Clase04.pdb
 D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\bin\Debug\Cosa.dll
 D:\Mis Documentos\Samantha\Moreno.Samantha\Clase04\bin\Debug\Cosa.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\bin\Debug\Clase04.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\bin\Debug\Clase04.exe
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\bin\Debug\Clase04.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\bin\Debug\Cosa.dll
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\bin\Debug\Cosa.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\obj\Debug\Clase04.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\obj\Debug\Clase04.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\obj\Debug\Clase04.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\obj\Debug\Clase04.exe
+D:\UTN\Programacion II\Moreno.Samantha\Clase04\obj\Debug\Clase04.pdb

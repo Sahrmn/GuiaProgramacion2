@@ -6,3 +6,13 @@ D:\Mis Documentos\GuiaProgramacion2\TestPaleta\bin\Debug\EntidadesClase06.pdb
 D:\Mis Documentos\GuiaProgramacion2\TestPaleta\obj\Debug\TestPaleta.csprojResolveAssemblyReference.cache
 D:\Mis Documentos\GuiaProgramacion2\TestPaleta\obj\Debug\TestPaleta.exe
 D:\Mis Documentos\GuiaProgramacion2\TestPaleta\obj\Debug\TestPaleta.pdb
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\bin\Debug\TestPaleta.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\bin\Debug\TestPaleta.exe
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\bin\Debug\TestPaleta.pdb
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\bin\Debug\EntidadesClase06.dll
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\bin\Debug\EntidadesClase06.pdb
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\obj\Debug\TestPaleta.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\obj\Debug\TestPaleta.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\obj\Debug\TestPaleta.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\obj\Debug\TestPaleta.exe
+D:\UTN\Programacion II\Moreno.Samantha\TestPaleta\obj\Debug\TestPaleta.pdb

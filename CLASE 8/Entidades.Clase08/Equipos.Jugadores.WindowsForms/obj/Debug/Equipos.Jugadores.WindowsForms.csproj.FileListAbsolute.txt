@@ -1,0 +1,24 @@
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Equipos.Jugadores.WindowsForms.exe.config
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Equipos.Jugadores.WindowsForms.exe
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Equipos.Jugadores.WindowsForms.pdb
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Entidades.Clase08.dll
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Entidades.Clase08.pdb
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.frmJugador.resources
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.Properties.Resources.resources
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.csproj.GenerateResource.Cache
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.exe
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.pdb
+D:\VisualStudio\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.frmEquipo.resources
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Equipos.Jugadores.WindowsForms.exe.config
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.exe
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.pdb
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Equipos.Jugadores.WindowsForms.exe
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Equipos.Jugadores.WindowsForms.pdb
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Entidades.Clase08.dll
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\bin\Debug\Entidades.Clase08.pdb
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.frmEquipo.resources
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.frmJugador.resources
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.Properties.Resources.resources
+D:\Mis Documentos\Moreno\Entidades.Clase08\Equipos.Jugadores.WindowsForms\obj\Debug\Equipos.Jugadores.WindowsForms.csproj.GenerateResource.Cache

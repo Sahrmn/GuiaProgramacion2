@@ -1,0 +1,10 @@
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.dll
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.pdb
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.dll
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.pdb
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.dll
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.pdb
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.dll
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.pdb

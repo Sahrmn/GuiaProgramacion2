@@ -121,7 +121,11 @@ namespace Entidades
 
         public static bool operator ==(Pluma p, Tinta t)
         {
-            bool retValue = (p._tinta == t);
+            bool retValue = false;
+            if ((object)p != null && (object)t != null)
+            {
+                retValue = (p._tinta == t);
+            }
             return retValue;
         }
 
@@ -139,9 +143,12 @@ namespace Entidades
         /// <returns></returns>
         public static Pluma operator +(Pluma p, Tinta t)
         {
-            if (p == t && p._cantidad < 100)
+            if ((object)p != null && (object)t != null)
             {
-                p._cantidad++;
+                if (p == t && p._cantidad < 100)
+                {
+                    p._cantidad++;
+                }
             }
             return p;
         }
@@ -154,9 +161,12 @@ namespace Entidades
         /// <returns></returns>
         public static Pluma operator -(Pluma p, Tinta t)
         {
-            if (p == t && p._cantidad > 0)
+            if ((object)p != null && (object)t != null)
             {
-                p._cantidad--;
+                if (p == t && p._cantidad > 0)
+                {
+                    p._cantidad--;
+                }
             }
             return p;
         }

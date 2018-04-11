@@ -1,0 +1,8 @@
+D:\VisualStudio\Entidades.Clase08\TestEquipoJugador\bin\Debug\TestEquipoJugador.exe.config
+D:\VisualStudio\Entidades.Clase08\TestEquipoJugador\bin\Debug\TestEquipoJugador.exe
+D:\VisualStudio\Entidades.Clase08\TestEquipoJugador\bin\Debug\TestEquipoJugador.pdb
+D:\VisualStudio\Entidades.Clase08\TestEquipoJugador\bin\Debug\Entidades.Clase08.dll
+D:\VisualStudio\Entidades.Clase08\TestEquipoJugador\bin\Debug\Entidades.Clase08.pdb
+D:\VisualStudio\Entidades.Clase08\TestEquipoJugador\obj\Debug\TestEquipoJugador.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades.Clase08\TestEquipoJugador\obj\Debug\TestEquipoJugador.exe
+D:\VisualStudio\Entidades.Clase08\TestEquipoJugador\obj\Debug\TestEquipoJugador.pdb

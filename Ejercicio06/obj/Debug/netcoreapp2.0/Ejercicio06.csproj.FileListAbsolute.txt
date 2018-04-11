@@ -8,3 +8,4 @@ D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejerc
 D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejercicio06.AssemblyInfo.cs
 D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejercicio06.dll
 D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejercicio06.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio06\obj\Debug\netcoreapp2.0\Ejercicio06.csprojResolveAssemblyReference.cache
