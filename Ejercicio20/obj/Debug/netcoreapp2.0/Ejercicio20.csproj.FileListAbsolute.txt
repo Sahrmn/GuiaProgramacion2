@@ -1,0 +1,11 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.deps.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.runtimeconfig.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.runtimeconfig.dev.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.AssemblyInfoInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.AssemblyInfo.cs
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.csprojResolveAssemblyReference.cache
