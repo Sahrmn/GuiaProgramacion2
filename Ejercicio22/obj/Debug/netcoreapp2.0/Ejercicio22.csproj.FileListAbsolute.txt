@@ -1,0 +1,14 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\bin\Debug\netcoreapp2.0\Ejercicio22.deps.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\bin\Debug\netcoreapp2.0\Ejercicio22.runtimeconfig.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\bin\Debug\netcoreapp2.0\Ejercicio22.runtimeconfig.dev.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\bin\Debug\netcoreapp2.0\Ejercicio22.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\bin\Debug\netcoreapp2.0\Ejercicio22.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\bin\Debug\netcoreapp2.0\Conversor.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\bin\Debug\netcoreapp2.0\Conversor.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\obj\Debug\netcoreapp2.0\Ejercicio22.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\obj\Debug\netcoreapp2.0\Ejercicio22.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\obj\Debug\netcoreapp2.0\Ejercicio22.AssemblyInfoInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\obj\Debug\netcoreapp2.0\Ejercicio22.AssemblyInfo.cs
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\obj\Debug\netcoreapp2.0\Ejercicio22.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\obj\Debug\netcoreapp2.0\Ejercicio22.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio22\obj\Debug\netcoreapp2.0\Ejercicio22.pdb

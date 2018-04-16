@@ -28,6 +28,14 @@ namespace Ejercicio21
             Console.WriteLine(prueba3.GetCantidad());
             prueba1 = (Fahrenheit)kel;
             Console.WriteLine(prueba1.GetCantidad());
+
+            Console.WriteLine("\n");
+
+            Celcius x = cel + prueba3;
+            Console.WriteLine(x.GetCantidad());
+            x = cel + prueba1;
+            Console.WriteLine(x.GetCantidad());
+
             Console.ReadLine();
 
         }

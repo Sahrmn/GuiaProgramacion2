@@ -1,0 +1,6 @@
+D:\UTN\Programacion II\Moreno.Samantha\Conversor\bin\Debug\Conversor.dll
+D:\UTN\Programacion II\Moreno.Samantha\Conversor\bin\Debug\Conversor.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Conversor\obj\Debug\Conversor.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Conversor\obj\Debug\Conversor.dll
+D:\UTN\Programacion II\Moreno.Samantha\Conversor\obj\Debug\Conversor.pdb
