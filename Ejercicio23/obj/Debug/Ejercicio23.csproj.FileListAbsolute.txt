@@ -1,0 +1,13 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\bin\Debug\Ejercicio23.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\bin\Debug\Ejercicio23.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\bin\Debug\Moneda.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\bin\Debug\Moneda.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\obj\Debug\Ejercicio23.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\obj\Debug\Ejercicio23.Form1.resources
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\obj\Debug\Ejercicio23.Properties.Resources.resources
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\obj\Debug\Ejercicio23.csproj.GenerateResource.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\obj\Debug\Ejercicio23.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\obj\Debug\Ejercicio23.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\obj\Debug\Ejercicio23.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio23\obj\Debug\Ejercicio23.pdb

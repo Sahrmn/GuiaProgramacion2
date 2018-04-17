@@ -1,0 +1,6 @@
+D:\UTN\Programacion II\Moreno.Samantha\Moneda\bin\Debug\Moneda.dll
+D:\UTN\Programacion II\Moreno.Samantha\Moneda\bin\Debug\Moneda.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Moneda\obj\Debug\Moneda.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Moneda\obj\Debug\Moneda.dll
+D:\UTN\Programacion II\Moreno.Samantha\Moneda\obj\Debug\Moneda.pdb
