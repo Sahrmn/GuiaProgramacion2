@@ -1,0 +1,6 @@
+D:\UTN\Programacion II\Moreno.Samantha\Temperatura\bin\Debug\Temperatura.dll
+D:\UTN\Programacion II\Moreno.Samantha\Temperatura\bin\Debug\Temperatura.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Temperatura\obj\Debug\Temperatura.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Temperatura\obj\Debug\Temperatura.dll
+D:\UTN\Programacion II\Moreno.Samantha\Temperatura\obj\Debug\Temperatura.pdb

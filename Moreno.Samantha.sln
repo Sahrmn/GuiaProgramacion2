@@ -69,6 +69,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneda", "Moneda\Moneda.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio23", "Ejercicio23\Ejercicio23.csproj", "{55847C7A-2D35-4132-8B53-DE95D50007E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperatura", "Temperatura\Temperatura.csproj", "{228C29BE-473B-4B3E-A4C0-D208D30629DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio24", "Ejercicio24\Ejercicio24.csproj", "{FCF891AD-6E28-4251-82E6-E640ACE13B72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +211,14 @@ Global
 		{55847C7A-2D35-4132-8B53-DE95D50007E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55847C7A-2D35-4132-8B53-DE95D50007E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55847C7A-2D35-4132-8B53-DE95D50007E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228C29BE-473B-4B3E-A4C0-D208D30629DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228C29BE-473B-4B3E-A4C0-D208D30629DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228C29BE-473B-4B3E-A4C0-D208D30629DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228C29BE-473B-4B3E-A4C0-D208D30629DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF891AD-6E28-4251-82E6-E640ACE13B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF891AD-6E28-4251-82E6-E640ACE13B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF891AD-6E28-4251-82E6-E640ACE13B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF891AD-6E28-4251-82E6-E640ACE13B72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

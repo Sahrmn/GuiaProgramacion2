@@ -1,0 +1,13 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\bin\Debug\Ejercicio24.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\bin\Debug\Ejercicio24.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\bin\Debug\Ejercicio24.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\bin\Debug\Temperatura.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\bin\Debug\Temperatura.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\obj\Debug\Ejercicio24.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\obj\Debug\Ejercicio24.Form1.resources
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\obj\Debug\Ejercicio24.Properties.Resources.resources
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\obj\Debug\Ejercicio24.csproj.GenerateResource.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\obj\Debug\Ejercicio24.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\obj\Debug\Ejercicio24.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\obj\Debug\Ejercicio24.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio24\obj\Debug\Ejercicio24.pdb
