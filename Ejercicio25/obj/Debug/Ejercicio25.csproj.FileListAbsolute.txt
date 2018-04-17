@@ -1,0 +1,13 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\bin\Debug\Ejercicio25.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\bin\Debug\Ejercicio25.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\bin\Debug\Ejercicio25.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\bin\Debug\Conversor.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\bin\Debug\Conversor.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\obj\Debug\Ejercicio25.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\obj\Debug\Ejercicio25.Form1.resources
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\obj\Debug\Ejercicio25.Properties.Resources.resources
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\obj\Debug\Ejercicio25.csproj.GenerateResource.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\obj\Debug\Ejercicio25.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\obj\Debug\Ejercicio25.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\obj\Debug\Ejercicio25.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio25\obj\Debug\Ejercicio25.pdb
