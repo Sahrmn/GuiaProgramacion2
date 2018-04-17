@@ -1,0 +1,7 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio26\bin\Debug\Ejercicio26.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio26\bin\Debug\Ejercicio26.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio26\bin\Debug\Ejercicio26.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio26\obj\Debug\Ejercicio26.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio26\obj\Debug\Ejercicio26.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio26\obj\Debug\Ejercicio26.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio26\obj\Debug\Ejercicio26.pdb
