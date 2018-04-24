@@ -1,0 +1,10 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\bin\Debug\Ejercicio28.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\bin\Debug\Ejercicio28.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\bin\Debug\Ejercicio28.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\obj\Debug\Ejercicio28.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\obj\Debug\Ejercicio28.Form1.resources
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\obj\Debug\Ejercicio28.Properties.Resources.resources
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\obj\Debug\Ejercicio28.csproj.GenerateResource.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\obj\Debug\Ejercicio28.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\obj\Debug\Ejercicio28.exe
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio28\obj\Debug\Ejercicio28.pdb
