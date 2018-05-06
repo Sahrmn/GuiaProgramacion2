@@ -1,0 +1,18 @@
+D:\Mis Documentos\Moreno\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Test.exe.config
+D:\Mis Documentos\Moreno\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Test.exe
+D:\Mis Documentos\Moreno\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Test.pdb
+D:\Mis Documentos\Moreno\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\obj\Debug\Test.exe
+D:\Mis Documentos\Moreno\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\obj\Debug\Test.pdb
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Test.exe.config
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Test.exe
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Test.pdb
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Entidades.dll
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\bin\Debug\Entidades.pdb
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\obj\Debug\Test.csproj.CopyComplete
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\obj\Debug\Test.exe
+D:\UTN\Programacion II\Herencia, Polimorfismo\Modelo Examen 1\Moreno.Samantha.Modelo1erP\Test\obj\Debug\Test.pdb
