@@ -1,0 +1,11 @@
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.AssemblyInfoInputs.cache
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.AssemblyInfo.cs
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.deps.json
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.runtimeconfig.json
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.runtimeconfig.dev.json
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.dll
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.pdb
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.dll
+D:\UTN\Programacion II\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.pdb

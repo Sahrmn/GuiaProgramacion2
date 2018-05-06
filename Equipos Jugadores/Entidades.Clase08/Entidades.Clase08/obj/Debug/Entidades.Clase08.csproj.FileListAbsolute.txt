@@ -1,0 +1,22 @@
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.dll
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.pdb
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.dll
+D:\VisualStudio\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.pdb
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.dll
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.pdb
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.dll
+D:\Mis Documentos\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.pdb
+D:\UTN\Programacion II\Moreno\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.dll
+D:\UTN\Programacion II\Moreno\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.pdb
+D:\UTN\Programacion II\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.dll
+D:\UTN\Programacion II\Moreno\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Equipos Jugadores\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.dll
+D:\UTN\Programacion II\Moreno.Samantha\Equipos Jugadores\Entidades.Clase08\Entidades.Clase08\bin\Debug\Entidades.Clase08.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Equipos Jugadores\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Equipos Jugadores\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Equipos Jugadores\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.dll
+D:\UTN\Programacion II\Moreno.Samantha\Equipos Jugadores\Entidades.Clase08\Entidades.Clase08\obj\Debug\Entidades.Clase08.pdb
