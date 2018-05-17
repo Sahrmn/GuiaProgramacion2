@@ -1,0 +1,5 @@
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\Entidades\obj\Debug\Entidades.pdb

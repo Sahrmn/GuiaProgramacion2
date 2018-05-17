@@ -32,7 +32,8 @@ namespace Ejercicio28
                 {
                     count = 1;
                     diccionario.Add(item, count);
-                }                  else
+                }
+                else
                 {
                     if (diccionario.TryGetValue(item, out int key)) //busca la key de la palabra, si existe devuelve el valor entero que lo acompaña
                     {

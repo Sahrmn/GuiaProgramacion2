@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{C7454B64-B904-48FD-85E0-D2D24556D60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestContabilidad", "TestContabilidad\TestContabilidad.csproj", "{1D193335-774C-4A87-9FE3-F13242CC4517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7454B64-B904-48FD-85E0-D2D24556D60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7454B64-B904-48FD-85E0-D2D24556D60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7454B64-B904-48FD-85E0-D2D24556D60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7454B64-B904-48FD-85E0-D2D24556D60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D193335-774C-4A87-9FE3-F13242CC4517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D193335-774C-4A87-9FE3-F13242CC4517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D193335-774C-4A87-9FE3-F13242CC4517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D193335-774C-4A87-9FE3-F13242CC4517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

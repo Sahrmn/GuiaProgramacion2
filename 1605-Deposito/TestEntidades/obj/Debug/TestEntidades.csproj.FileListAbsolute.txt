@@ -1,0 +1,8 @@
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\TestEntidades\obj\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\TestEntidades\bin\Debug\TestEntidades.exe
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\TestEntidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\TestEntidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\TestEntidades\obj\Debug\TestEntidades.exe
+D:\Mis Documentos\Moreno\1605-DepositoDeAutos\TestEntidades\obj\Debug\TestEntidades.pdb

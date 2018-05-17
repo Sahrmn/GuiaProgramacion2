@@ -1,0 +1,8 @@
+D:\Mis Documentos\Moreno\Ejercicio 47\Entidades\TestContabilidad\bin\Debug\TestContabilidad.exe.config
+D:\Mis Documentos\Moreno\Ejercicio 47\Entidades\TestContabilidad\bin\Debug\TestContabilidad.exe
+D:\Mis Documentos\Moreno\Ejercicio 47\Entidades\TestContabilidad\bin\Debug\TestContabilidad.pdb
+D:\Mis Documentos\Moreno\Ejercicio 47\Entidades\TestContabilidad\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\Ejercicio 47\Entidades\TestContabilidad\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\Ejercicio 47\Entidades\TestContabilidad\obj\Debug\TestContabilidad.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\Ejercicio 47\Entidades\TestContabilidad\obj\Debug\TestContabilidad.exe
+D:\Mis Documentos\Moreno\Ejercicio 47\Entidades\TestContabilidad\obj\Debug\TestContabilidad.pdb
