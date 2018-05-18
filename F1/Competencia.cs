@@ -45,8 +45,8 @@ namespace F1
             {
                 a.EnCompetencia = true;
                 a.VueltasRestantes = c._cantidadVueltas;
-                //Random ran = new Random();
-                //a.CantidadDeCombustible = short.Parse(ran.Next(15, 100));
+                Random ran = new Random();
+                a.CantidadDeCombustible = short.Parse(ran.Next(15, 100).ToString());
                 c._competidores.Add(a);
                 retValue = true;
             }

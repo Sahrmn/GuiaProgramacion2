@@ -184,9 +184,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UTN\\Programacion II\\Moreno.Samantha\\F1\\F1.csproj",
-      "projectName": "F1",
-      "projectPath": "D:\\UTN\\Programacion II\\Moreno.Samantha\\F1\\F1.csproj",
+      "projectUniqueName": "D:\\UTN\\Programacion II\\Moreno.Samantha\\F1\\Ejercicio30.csproj",
+      "projectName": "Ejercicio30",
+      "projectPath": "D:\\UTN\\Programacion II\\Moreno.Samantha\\F1\\Ejercicio30.csproj",
       "packagesPath": "C:\\Users\\Samantha\\.nuget\\packages\\",
       "outputPath": "D:\\UTN\\Programacion II\\Moreno.Samantha\\F1\\obj\\",
       "projectStyle": "PackageReference",
