@@ -1,0 +1,8 @@
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\TestInterface\bin\Debug\TestInterface.exe.config
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\TestInterface\bin\Debug\TestInterface.exe
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\TestInterface\bin\Debug\TestInterface.pdb
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\TestInterface\bin\Debug\2205.dll
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\TestInterface\bin\Debug\2205.pdb
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\TestInterface\obj\Debug\TestInterface.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\TestInterface\obj\Debug\TestInterface.exe
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\TestInterface\obj\Debug\TestInterface.pdb

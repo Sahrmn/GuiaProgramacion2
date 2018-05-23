@@ -1,0 +1,8 @@
+D:\Mis Documentos\Moreno\TryCatch\1505\bin\Debug\1505.exe.config
+D:\Mis Documentos\Moreno\TryCatch\1505\bin\Debug\1505.exe
+D:\Mis Documentos\Moreno\TryCatch\1505\bin\Debug\1505.pdb
+D:\Mis Documentos\Moreno\TryCatch\1505\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\TryCatch\1505\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\TryCatch\1505\obj\Debug\1505.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\TryCatch\1505\obj\Debug\1505.exe
+D:\Mis Documentos\Moreno\TryCatch\1505\obj\Debug\1505.pdb

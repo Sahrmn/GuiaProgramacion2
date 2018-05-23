@@ -1,0 +1,11 @@
+D:\VisualStudio\1804\Vehiculos\obj\Debug\Vehiculos.csprojResolveAssemblyReference.cache
+D:\VisualStudio\1804\Vehiculos\bin\Debug\Vehiculos.dll
+D:\VisualStudio\1804\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\VisualStudio\1804\Vehiculos\obj\Debug\Vehiculos.dll
+D:\VisualStudio\1804\Vehiculos\obj\Debug\Vehiculos.pdb
+D:\UTN\Programacion II\Herencia, Polimorfismo\1804\Vehiculos\bin\Debug\Vehiculos.dll
+D:\UTN\Programacion II\Herencia, Polimorfismo\1804\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\UTN\Programacion II\Herencia, Polimorfismo\1804\Vehiculos\obj\Debug\Vehiculos.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Herencia, Polimorfismo\1804\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Herencia, Polimorfismo\1804\Vehiculos\obj\Debug\Vehiculos.dll
+D:\UTN\Programacion II\Herencia, Polimorfismo\1804\Vehiculos\obj\Debug\Vehiculos.pdb

@@ -1,0 +1,5 @@
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\2205\obj\Debug\2205.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\2205\bin\Debug\2205.dll
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\2205\bin\Debug\2205.pdb
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\2205\obj\Debug\2205.dll
+D:\Mis Documentos\Moreno\Interfaces\Interfaces\2205\obj\Debug\2205.pdb

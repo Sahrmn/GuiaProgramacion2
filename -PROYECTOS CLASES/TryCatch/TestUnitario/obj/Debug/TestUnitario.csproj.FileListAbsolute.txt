@@ -1,0 +1,7 @@
+D:\Mis Documentos\Moreno\TryCatch\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Mis Documentos\Moreno\TryCatch\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Mis Documentos\Moreno\TryCatch\TestUnitario\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\TryCatch\TestUnitario\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\TryCatch\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\TryCatch\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Mis Documentos\Moreno\TryCatch\TestUnitario\obj\Debug\TestUnitario.pdb

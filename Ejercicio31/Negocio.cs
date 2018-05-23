@@ -18,16 +18,7 @@ namespace Ejercicio31
             }
             set
             {
-                bool a = true;
-                foreach (Cliente item in this._clientes)
-                {
-                    if (item == value)
-                    {
-                        a = false;
-                        break;
-                    }
-                }
-                if (a == true)
+                if (this != value)
                 {
                     this._clientes.Enqueue(value);
                 }
@@ -61,7 +52,7 @@ namespace Ejercicio31
 
         public static bool operator !=(Negocio n, Cliente c)
         {
-            return false;
+            return !(n == c);
         }
 
         public static bool operator +(Negocio n, Cliente c)
@@ -76,6 +67,15 @@ namespace Ejercicio31
                     break;
                 }
             }
+            return retValue;
+        }
+
+        public static bool operator ~(Negocio n)
+        {
+            bool retValue = false;
+            Cliente nuevoCliente = n.Cliente;
+            if (n._caja.Atender(nuevoCliente))
+                retValue = true;
             return retValue;
         }
     }
