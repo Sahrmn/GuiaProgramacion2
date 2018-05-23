@@ -1,0 +1,11 @@
+D:\Mis Documentos\Moreno\2305\2305\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\2305\2305\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\2305\2305\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\2305\2305\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\2305\2305\Entidades\obj\Debug\Entidades.pdb
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\Entidades\bin\Debug\Entidades.dll
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\Entidades\bin\Debug\Entidades.pdb
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\Entidades\obj\Debug\Entidades.dll
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,24 @@
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\obj\Debug\FormEntidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\obj\Debug\FormEntidades.Form1.resources
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\obj\Debug\FormEntidades.Properties.Resources.resources
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\obj\Debug\FormEntidades.csproj.GenerateResource.Cache
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\bin\Debug\FormEntidades.exe.config
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\bin\Debug\FormEntidades.exe
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\bin\Debug\FormEntidades.pdb
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\obj\Debug\FormEntidades.exe
+D:\Mis Documentos\Moreno\2305\2305\FormEntidades\obj\Debug\FormEntidades.pdb
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\bin\Debug\FormEntidades.exe.config
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\bin\Debug\FormEntidades.exe
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\bin\Debug\FormEntidades.pdb
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\bin\Debug\Entidades.dll
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\bin\Debug\Entidades.pdb
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\obj\Debug\FormEntidades.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\obj\Debug\FormEntidades.Form1.resources
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\obj\Debug\FormEntidades.Properties.Resources.resources
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\obj\Debug\FormEntidades.csproj.GenerateResource.cache
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\obj\Debug\FormEntidades.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\obj\Debug\FormEntidades.csproj.CopyComplete
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\obj\Debug\FormEntidades.exe
+D:\UTN\Programacion II\Moreno.Samantha\-PROYECTOS CLASES\Archivos\2305\FormEntidades\obj\Debug\FormEntidades.pdb
