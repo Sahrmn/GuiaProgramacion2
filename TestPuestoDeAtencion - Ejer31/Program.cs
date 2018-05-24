@@ -39,10 +39,28 @@ namespace TestPuestoDeAtencion___Ejer31
             else
                 Console.WriteLine("No se pudo agregar ramiro");
 
+            Console.WriteLine("Atender el cliente " + elNegocio.Cliente.Nombre);
             if (~(elNegocio))
             {
-                Console.WriteLine("Atendido " + elNegocio.Cliente);
+                Console.WriteLine("Atendido!");
             }
+            Console.WriteLine("Atender el cliente " + elNegocio.Cliente.Nombre);
+            if (~(elNegocio))
+            {
+                Console.WriteLine("Atendido!");
+            }
+            Console.WriteLine("Atender el cliente " + elNegocio.Cliente.Nombre);
+            if (~(elNegocio))
+            {
+                Console.WriteLine("Atendido!");
+            }
+            Console.WriteLine("Atender el cliente " + elNegocio.Cliente.Nombre);
+            if (~(elNegocio))
+            {
+                Console.WriteLine("Atendido!");
+            }
+
+            Console.ReadLine();
 
         }
     }

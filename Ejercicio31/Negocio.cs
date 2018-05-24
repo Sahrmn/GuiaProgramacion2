@@ -14,7 +14,16 @@ namespace Ejercicio31
         {
             get
             {
-                return this._clientes.Peek();
+                try
+                {
+                    return this._clientes.Peek();
+                }
+                catch
+                {
+                    //Console.WriteLine("No hay clientes!");
+                    Cliente nuevo = new Cliente(0);
+                    return nuevo;
+                }
             }
             set
             {
@@ -58,13 +67,25 @@ namespace Ejercicio31
         public static bool operator +(Negocio n, Cliente c)
         {
             bool retValue = false;
+            bool flag = false;
             foreach (Cliente item in n._clientes)
             {
                 if (item == c)
                 {
+                    flag = true;
+                    break;
+                }
+            }
+            if (flag == false)
+            {
+                try
+                {
                     n._clientes.Enqueue(c);
                     retValue = true;
-                    break;
+                }
+                catch
+                {
+                    retValue = false;
                 }
             }
             return retValue;
@@ -73,9 +94,16 @@ namespace Ejercicio31
         public static bool operator ~(Negocio n)
         {
             bool retValue = false;
-            Cliente nuevoCliente = n.Cliente;
-            if (n._caja.Atender(nuevoCliente))
-                retValue = true;
+            try
+            {
+                Cliente nuevoCliente = n._clientes.Dequeue();
+                if (n._caja.Atender(nuevoCliente))
+                    retValue = true;
+            }
+            catch
+            {
+                Console.WriteLine("No hay mas clientes que atender!");
+            }
             return retValue;
         }
     }
