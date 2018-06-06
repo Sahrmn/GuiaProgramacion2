@@ -1,0 +1,6 @@
+D:\Mis Documentos\Moreno\3005\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\3005\Entidades\bin\Debug\Entidades.dll.config
+D:\Mis Documentos\Moreno\3005\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\3005\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\3005\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\3005\Entidades\obj\Debug\Entidades.pdb
