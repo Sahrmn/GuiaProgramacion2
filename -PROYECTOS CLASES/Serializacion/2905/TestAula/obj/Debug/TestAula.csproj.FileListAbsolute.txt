@@ -1,0 +1,8 @@
+D:\Mis Documentos\Moreno\2905\TestAula\bin\Debug\TestAula.exe.config
+D:\Mis Documentos\Moreno\2905\TestAula\bin\Debug\TestAula.exe
+D:\Mis Documentos\Moreno\2905\TestAula\bin\Debug\TestAula.pdb
+D:\Mis Documentos\Moreno\2905\TestAula\bin\Debug\Entidades.dll
+D:\Mis Documentos\Moreno\2905\TestAula\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Moreno\2905\TestAula\obj\Debug\TestAula.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Moreno\2905\TestAula\obj\Debug\TestAula.exe
+D:\Mis Documentos\Moreno\2905\TestAula\obj\Debug\TestAula.pdb

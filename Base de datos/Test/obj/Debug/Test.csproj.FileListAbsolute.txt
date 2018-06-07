@@ -1,8 +1,0 @@
-D:\Mis Documentos\Moreno\3005\Test\bin\Debug\Test.exe.config
-D:\Mis Documentos\Moreno\3005\Test\bin\Debug\Test.exe
-D:\Mis Documentos\Moreno\3005\Test\bin\Debug\Test.pdb
-D:\Mis Documentos\Moreno\3005\Test\bin\Debug\Entidades.dll
-D:\Mis Documentos\Moreno\3005\Test\bin\Debug\Entidades.pdb
-D:\Mis Documentos\Moreno\3005\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
-D:\Mis Documentos\Moreno\3005\Test\obj\Debug\Test.exe
-D:\Mis Documentos\Moreno\3005\Test\obj\Debug\Test.pdb
