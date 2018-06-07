@@ -1,0 +1,11 @@
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\bin\Debug\netcoreapp2.0\Ejercicio34.deps.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\bin\Debug\netcoreapp2.0\Ejercicio34.runtimeconfig.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\bin\Debug\netcoreapp2.0\Ejercicio34.runtimeconfig.dev.json
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\bin\Debug\netcoreapp2.0\Ejercicio34.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\bin\Debug\netcoreapp2.0\Ejercicio34.pdb
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\obj\Debug\netcoreapp2.0\Ejercicio34.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\obj\Debug\netcoreapp2.0\Ejercicio34.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\obj\Debug\netcoreapp2.0\Ejercicio34.AssemblyInfoInputs.cache
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\obj\Debug\netcoreapp2.0\Ejercicio34.AssemblyInfo.cs
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\obj\Debug\netcoreapp2.0\Ejercicio34.dll
+D:\UTN\Programacion II\Moreno.Samantha\Ejercicio34\obj\Debug\netcoreapp2.0\Ejercicio34.pdb
