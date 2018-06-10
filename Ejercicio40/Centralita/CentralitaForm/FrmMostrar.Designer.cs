@@ -48,6 +48,7 @@
             this.ClientSize = new System.Drawing.Size(250, 140);
             this.Controls.Add(this.richtxtMostrar);
             this.Name = "FrmMostrar";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Mostrar";
             this.ResumeLayout(false);
 
