@@ -53,6 +53,7 @@
             this.btnFactTotal.TabIndex = 1;
             this.btnFactTotal.Text = "Facturacion Total";
             this.btnFactTotal.UseVisualStyleBackColor = true;
+            this.btnFactTotal.Click += new System.EventHandler(this.btnFactTotal_Click);
             // 
             // btnFactLocal
             // 
@@ -62,6 +63,7 @@
             this.btnFactLocal.TabIndex = 2;
             this.btnFactLocal.Text = "Facturacion Local";
             this.btnFactLocal.UseVisualStyleBackColor = true;
+            this.btnFactLocal.Click += new System.EventHandler(this.btnFactLocal_Click);
             // 
             // btnFactProv
             // 
@@ -71,6 +73,7 @@
             this.btnFactProv.TabIndex = 3;
             this.btnFactProv.Text = "Facturacion Provincial";
             this.btnFactProv.UseVisualStyleBackColor = true;
+            this.btnFactProv.Click += new System.EventHandler(this.btnFactProv_Click);
             // 
             // btnSalir
             // 

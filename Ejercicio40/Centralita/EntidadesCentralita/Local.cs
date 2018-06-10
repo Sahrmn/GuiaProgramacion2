@@ -40,7 +40,7 @@ namespace CentralitaHerencia
 
         protected override string Mostrar()
         {
-            return base.Mostrar() + "Costo Llamada: " + this.CostoLlamada;
+            return "\nTipo: Local\n" + base.Mostrar() + "Costo Llamada: " + this.CostoLlamada;
         }
 
         public override string ToString()

@@ -48,6 +48,8 @@ namespace CentralitaForm
                 Local nuevaLlamadaLocal = new Local(txtNroOrigen.Text, duracion, txtNroDestino.Text, costo);
                 this._central += nuevaLlamadaLocal;
             }
+            MessageBox.Show("Llamada Realizada!");
+            this.Close();
         }
 
         private void btnUno_Click(object sender, EventArgs e)

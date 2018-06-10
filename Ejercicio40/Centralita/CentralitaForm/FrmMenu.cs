@@ -30,6 +30,28 @@ namespace CentralitaForm
         {
             FrmLlamador nuevaLlamada = new FrmLlamador(this.central);
             nuevaLlamada.ShowDialog();
+            this.central = nuevaLlamada.MiCentralita;//recupero centralita del formulario frmLlamador
+        }
+
+        private void btnFactTotal_Click(object sender, EventArgs e)
+        {
+            FrmMostrar mostrar = new FrmMostrar(this.central, TipoLlamada.Todas);
+            //mostrar.TipoLlamada = TipoLlamada.Todas;
+            mostrar.ShowDialog();
+        }
+
+        private void btnFactLocal_Click(object sender, EventArgs e)
+        {
+            FrmMostrar mostrar = new FrmMostrar(this.central, TipoLlamada.Local);
+            //mostrar.TipoLlamada = TipoLlamada.Local;
+            mostrar.ShowDialog();
+        }
+
+        private void btnFactProv_Click(object sender, EventArgs e)
+        {
+            FrmMostrar mostrar = new FrmMostrar(this.central, TipoLlamada.Provincial);
+            //mostrar.TipoLlamada = TipoLlamada.Provincial;
+            mostrar.ShowDialog();
         }
     }
 }

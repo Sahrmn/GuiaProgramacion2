@@ -118,6 +118,7 @@ namespace CentralitaHerencia
             string retValue = "---------------------- "+ this._razonSocial +" --------------------\n";
             //retValue += "Razon social: " + this._razonSocial + "\n";
             retValue += "Ganancia Total: " + this.GananciaTotal + "\n";
+            //double gLocal = Math.(this.GananciaPorLocal);
             retValue += "Ganancia Llamadas Locales: " + this.GananciaPorLocal + "\nGanancia Llamadas Provinciales: " +  this.GananciaPorProvincial + "\n";
             retValue += "\nLLAMADAS\n";
             foreach (Llamada item in this._listaDeLlamadas)

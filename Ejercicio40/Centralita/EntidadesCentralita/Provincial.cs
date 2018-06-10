@@ -46,7 +46,7 @@ namespace CentralitaHerencia
 
         protected override string Mostrar()
         {
-            return base.Mostrar() + "Franja Horaria: " + this._franjaHoraria + "\nCosto Llamada: " + this.CostoLlamada;
+            return "\nTipo: Provincial\n" + base.Mostrar() + "Franja Horaria: " + this._franjaHoraria + "\nCosto Llamada: " + this.CostoLlamada;
         }
 
         public Provincial(Franja miFranja, Llamada unaLlamada):this(unaLlamada.NroOrigen, miFranja, unaLlamada.Duracion, unaLlamada.NroDestino)

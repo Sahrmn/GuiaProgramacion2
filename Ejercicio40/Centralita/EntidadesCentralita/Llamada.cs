@@ -39,7 +39,7 @@ namespace CentralitaHerencia
 
         protected virtual string Mostrar()
         {
-            string retValue = "\n";
+            string retValue = "";
             retValue += "Duracion: " + this.Duracion + "\n";
             retValue += "Nro. Destino: " + this.NroDestino + "\n";
             retValue += "Nro. Origen: " + this.NroOrigen;
