@@ -16,6 +16,8 @@ namespace Entidades
         private int _edad;
         private int _id;
 
+        #region Propiedades
+
         public string Nombre 
         {
             get { return this._nombre; }
@@ -45,6 +47,10 @@ namespace Entidades
             get { return this._id; } 
         }
 
+        #endregion
+
+        #region Constructores
+
         public Persona(string nom, string ap, int edad)
         {
             this._nombre = nom;
@@ -57,6 +63,9 @@ namespace Entidades
         {//verificar id
             this._id = id;
         }
+
+        #endregion
+
 
         public static List<Persona> TraerTodos()
         {

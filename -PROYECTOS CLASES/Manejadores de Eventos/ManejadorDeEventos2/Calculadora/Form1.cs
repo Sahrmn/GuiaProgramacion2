@@ -34,57 +34,63 @@ namespace Calculadora
             }
             else
             {
-                Button elBoton = (Button)sender;
-                int flag = 0;
-                foreach (Control item in groupBoxNumeros.Controls)
+                try
                 {
-                    if ((Button)item == elBoton)
+                    Button elBoton = (Button)sender;
+                    int flag = 0;
+                    foreach (Control item in groupBoxNumeros.Controls)
                     {
-                        flag = 1;
-                        break;
+                        if ((Button)item == elBoton)
+                        {
+                            flag = 1;
+                            break;
+                        }
                     }
-                }
-                foreach (Control item in groupBoxOperaciones.Controls)
-                {
-                    if ((Button)item == elBoton)
+                    foreach (Control item in groupBoxOperaciones.Controls)
                     {
-                        flag = -1;
-                        break;
+                        if ((Button)item == elBoton)
+                        {
+                            flag = -1;
+                            break;
+                        }
                     }
-                }
-                if (flag == -1)
-                {
+                    if (flag == -1)
+                    {
 
-                    if (elBoton == btnSumar)
-                    {
-                        this._operacion = '+';
+                        if (elBoton == btnSumar)
+                        {
+                            this._operacion = '+';
+                        }
+                        else if (elBoton == btnRestar)
+                        {
+                            this._operacion = '-';
+                        }
+                        else if (elBoton == btnMultiplicar)
+                        {
+                            this._operacion = '*';
+                        }
+                        else if (elBoton == btnDividir)
+                        {
+                            this._operacion = '/';
+                        }
+                        this._num1 = int.Parse(txtNumero.Text);//recordar quitar manejadores de los otros botones antes de reiniciar un calculo
+                        txtNumero.Text = "";
+                        txtNumero.Focus();
                     }
-                    else if (elBoton == btnRestar)
+                    else if (flag == 1)
                     {
-                        this._operacion = '-';
+                        btnCalcular.Click += new EventHandler(ManejadorCentral);
                     }
-                    else if (elBoton == btnMultiplicar)
+                    else
                     {
-                        this._operacion = '*';
+                        txtNumero.Text = Calculadora.Calcular(this._num1, this._num2, this._operacion).ToString();
+                        this._num1 = -1;
                     }
-                    else if (elBoton == btnDividir)
-                    {
-                        this._operacion = '/';
-                    }
-                    this._num1 = int.Parse(txtNumero.Text);//recordar quitar manejadores de los otros botones antes de reiniciar un calculo
-                    txtNumero.Text = "";
-                    txtNumero.Focus();
                 }
-                else if (flag == 1)
+                catch
                 {
-                    btnCalcular.Click += new EventHandler(ManejadorCentral);
+                    MessageBox.Show("Debe limpiar la pantalla antes de proseguir", "Ocurrio un problema", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
-                else
-                {
-                    txtNumero.Text = Calculadora.Calcular(this._num1, this._num2, this._operacion).ToString();
-                    this._num1 = -1;
-                }
-                
             }
         }
 
@@ -140,7 +146,14 @@ namespace Calculadora
             btnCalcular.Click -= new EventHandler(ManejadorCentral);
             btnCalcular.Click -= new EventHandler(ManejadorCentral);
             btnCalcular.Click -= new EventHandler(ManejadorCentral);
-            this._num2 = int.Parse(txtNumero.Text);
+            try
+            {
+                this._num2 = int.Parse(txtNumero.Text);
+            }
+            catch
+            {
+                this._num2 = 0;
+            }
         }
 
         private void btn1_Click(object sender, EventArgs e)
@@ -200,6 +213,7 @@ namespace Calculadora
         {
             txtNumero.Text = "";
             this._num1 = -1;
+            btnCalcular.Click -= new EventHandler(ManejadorCentral);
         }
     }
 }
