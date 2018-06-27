@@ -86,13 +86,13 @@ namespace AutoForm
         {
 
             this.lblMarca.Text = miAuto.Marca;
-            this.txtCombustible.Text = miAuto.Conbustible.ToString();
+            this.txtCombustible.Text = miAuto.Combustible.ToString();
             this.txtAutonomia.Text = miAuto.Autonomia.ToString();
         }
 
         private void btnLlenar_Click(object sender, EventArgs e)
         {
-            if (this.miAuto.Conbustible == 60)            
+            if (this.miAuto.Combustible == 60)            
                 MessageBox.Show("No es necesario", "Tanque Lleno");            
             else
                 this.CargarCombustible();

@@ -40,7 +40,7 @@ namespace Entidades
 
         }
 
-        public double Conbustible
+        public double Combustible
         {
             get
             {
@@ -53,7 +53,10 @@ namespace Entidades
             
         }
 
-        public double Autonomia { get { return this._combustible * 10; } }
+        public double Autonomia
+        {
+            get { return this._combustible * 10; }
+        }
 
         public void ConducirMejorado(int Kilometros)
         {
@@ -95,16 +98,16 @@ namespace Entidades
         }
 
         public override string ToString()
-{
-    StringBuilder sb = new StringBuilder();
-    sb.AppendLine();       
-    sb.AppendLine("--Estado del Auto--");
-    sb.AppendLine("Marca: " + this.Marca);
-    sb.AppendLine("Combustible: " + this._combustible + " Litros");
-    sb.AppendLine("Autonomía: " + this.Autonomia + " Km");
-    sb.AppendLine();
- 	 return sb.ToString();
-}
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine();       
+            sb.AppendLine("--Estado del Auto--");
+            sb.AppendLine("Marca: " + this.Marca);
+            sb.AppendLine("Combustible: " + this._combustible + " Litros");
+            sb.AppendLine("Autonomía: " + this.Autonomia + " Km");
+            sb.AppendLine();
+ 	         return sb.ToString();
+        }
         
             
         
