@@ -9,6 +9,7 @@ using System.Data.SqlClient; //sql
 
 namespace Entidades
 {
+    [Serializable]
     public class Persona
     {
         private string _nombre;
@@ -51,6 +52,13 @@ namespace Entidades
 
         #region Constructores
 
+        public Persona()
+        {
+            this._nombre = "";
+            this._apellido = "";
+            this._edad = 0;
+        }
+
         public Persona(string nom, string ap, int edad)
         {
             this._nombre = nom;
@@ -62,6 +70,12 @@ namespace Entidades
             : this(nom, ap, edad)
         {//verificar id
             this._id = id;
+        }
+
+        public override string ToString()
+        {
+            string ret = this.Apellido + "-" + this.Nombre + "-" + this.Edad;
+            return ret;
         }
 
         #endregion

@@ -30,6 +30,7 @@ namespace Entidades
         public static bool InsertarEnDB(string stringConexion, string sql)
         {
             bool retValue = false;
+            //"INSERT INTO Personas (nombre, apellido, edad) VALUES('Roberto', 'Romero', 36)";
             _conexion.ConnectionString = stringConexion;
             try
             {
@@ -54,6 +55,7 @@ namespace Entidades
             return retValue;
         }
 
+
         /// <summary>
         /// Realiza una consulta y muestra el contenido de una fila con la id especificada
         /// </summary>
@@ -63,7 +65,7 @@ namespace Entidades
         /// <returns></returns>
         public static Persona MostrarBD(string stringConexion, int id, string sql)
         {
-            //bool retValue = false;
+            //SELECT * FROM Personas
             Persona per = null;
             try
             {
@@ -94,6 +96,7 @@ namespace Entidades
             try
             {
                 _conexion.ConnectionString = stringConexion;
+                //"DELETE FROM Personas WHERE id = 3";
                 _conexion.Open();
                 _comando.CommandText = sql;
                 int data = _comando.ExecuteNonQuery();
@@ -112,6 +115,12 @@ namespace Entidades
         }
 
         
+        /// <summary>
+        /// Devuelve un datatable con toda la informacion de una base de datos
+        /// </summary>
+        /// <param name="stringConexion"></param>
+        /// <param name="sql"></param>
+        /// <returns></returns>
         public static DataTable GetData(string stringConexion, string sql)
         {
             DataTable tabla = null;
@@ -125,6 +134,10 @@ namespace Entidades
                 tabla = new DataTable();
                 //tabla.Locale = System.Globalization.CultureInfo.CurrentCulture;
                 data.Fill(tabla);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
             }
             finally
             {
